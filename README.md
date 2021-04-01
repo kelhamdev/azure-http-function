@@ -17,6 +17,6 @@
 * Clone repository
 * Run
 
-## Endopints
+## Endpoints
 * localhost/users
 * localhost/users/{id}
